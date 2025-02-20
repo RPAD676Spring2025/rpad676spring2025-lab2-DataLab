@@ -4,9 +4,11 @@ import os
 import sys
 
 # Data Labs - Instructions
-1. Complete assignments in Google Colab.
-2. Run the tests to check your work.
-3. Save and submit your notebook by pushing it to GitHub.
+1. Create a new repository in your personal GitHub account.
+2. Complete assignments in Google Colab.
+3. Upload your completed Google Colab notebook (`.ipynb` file) to the repository.
+3. Copy the link to your repository.
+4. Submit the link in [Canvas/Blackboard/Google Classroom].
 
 
 ### GitHub Guide for Students ###
